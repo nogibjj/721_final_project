@@ -22,7 +22,7 @@ def predict():
     #output = round(prediction[0], 2)
     output1 = round(prediction[0], 0)
     output = int(output1)
-    return render_template('index.html', prediction_text='The projected population of China is {}'.format(output))
+    return render_template('index.html', prediction_text='The projected population of India is {}'.format(output))
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000, debug=True)
