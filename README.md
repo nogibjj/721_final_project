@@ -126,7 +126,7 @@ I used https://locust.io/ to start load testing for the flask project.
 
 3. Run "locust". Once you’ve started Locust, open up a browser and point it to [http://localhost:8089](http://localhost:8089/). You will be greeted with something like this:
 
-<img width="691" alt="Screen Shot 2022-04-12 at 10 03 08 PM" src="https://user-images.githubusercontent.com/71869002/163085004-b9e39bd8-e1e2-4073-90b7-9b4235348b96.png">
+![image](https://github.com/xyli1233/721_final_project/blob/main/static/css/3.png) 
 
 4. Here is our test result. 
-   <img width="1280" alt="Screen Shot 2022-04-12 at 5 35 13 PM" src="https://user-images.githubusercontent.com/71869002/163085022-138f68e1-67b4-47d4-bae7-7f944a6d6e1c.png">
+https://github.com/xyli1233/721_final_project/blob/main/static/css/4.png
