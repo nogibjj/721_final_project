@@ -96,7 +96,8 @@ Now you can access service on http://127.0.0.1:5000/
    Lastly, you can see the service running on the given URL: https://ids721-2jiswkh77q-ue.a.run.app
 
  
-![WechatIMG91](https://user-images.githubusercontent.com/71869002/163084859-aec9569c-3926-4355-a2f7-387b3c07037b.jpeg)
+![image](https://github.com/xyli1233/721_final_project/blob/main/static/css/1.png) 
+![image](https://github.com/xyli1233/721_final_project/blob/main/static/css/2.png) 
 
    
 
@@ -129,4 +130,4 @@ I used https://locust.io/ to start load testing for the flask project.
 ![image](https://github.com/xyli1233/721_final_project/blob/main/static/css/3.png) 
 
 4. Here is our test result. 
-https://github.com/xyli1233/721_final_project/blob/main/static/css/4.png
+![image]https://github.com/xyli1233/721_final_project/blob/main/static/css/4.png
