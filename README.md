@@ -4,7 +4,11 @@ In this project, we used regression model and imported dataset from kaggle to tr
 
 
 ## Architecture
-![Screen Shot 2022-04-12 at 9 53 13 PM](https://user-images.githubusercontent.com/71869002/163084727-7e4d9ab8-7c20-4d5a-9d19-6081c423fb43.png)
+![image](https://github.com/xyli1233/721_final_project/blob/main/static/css/5.png) 
+
+   
+
+
 
 
 ## How to Run the App
