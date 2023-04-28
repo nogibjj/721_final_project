@@ -12,7 +12,7 @@ In this project, we used regression model and imported dataset from kaggle to tr
 1) Clone the repo
 
 ```bash
-git@github.com:xzhnshng/IDS721-group-project.git
+git@https://github.com/xyli1233/721_final_project.git
 ```
 
 2) Create & enter python virtual environment
