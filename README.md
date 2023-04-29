@@ -93,7 +93,6 @@ Now you can access service on http://127.0.0.1:5000/
    ```
 
    And you will need to name your service and select region you want to deploy. 
-<img width="887" alt="Screen Shot 2022-04-12 at 2 23 05 PM" src="https://user-images.githubusercontent.com/71869002/163084817-cecf6e5f-9804-45b1-a077-ea9eff47ab8e.png">
 
    
 
