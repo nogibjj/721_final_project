@@ -77,7 +77,7 @@ Now you can access service on http://127.0.0.1:5000/
 2.  Paste command below on the GCP shell:
 
    ```
-   git clone git@github.com:xzhnshng/IDS721-group-project.git
+   git clone git@github.com/xyli1233/721_final_project.git
    ```
 
 3. In the project folder, build the containerized flask application image:
