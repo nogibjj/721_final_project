@@ -1,6 +1,6 @@
 # IDS721 Group-Final-Project India Population Predictor
 
-In this project, we used regression model and imported dataset from kaggle to train it. We used Flask to build a light-weight web framework to predict the future population in China. And then we deploy our service in GCP and used locust to load test it.
+In this project, we used regression model and imported dataset from kaggle to train it. We used Flask to build a light-weight web framework to predict the future population in India. And then we deploy our service in GCP and used locust to load test it.
 
 
 ## Architecture
